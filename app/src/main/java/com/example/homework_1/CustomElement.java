@@ -78,7 +78,6 @@ public abstract class CustomElement {
 		// make the change
 		this.myPaint.setColor(color);
 	}
-
 	/** get the color */
 	public int getColor() {
 		return this.myPaint.getColor();
