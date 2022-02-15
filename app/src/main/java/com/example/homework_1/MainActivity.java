@@ -9,6 +9,16 @@ import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
+/**
+ * <!-- class MainActivity -->
+ *
+ * This class defines the actions, events, and listeners to interact with the view
+ *
+ * @author Skyelar Cann
+ * @version Spring 2022
+ *
+ */
+
 public class MainActivity extends AppCompatActivity{
 
     //Declaration of the view to use

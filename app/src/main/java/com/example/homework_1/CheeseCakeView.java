@@ -11,6 +11,16 @@ import android.view.SurfaceView;
 
 import java.util.ArrayList;
 
+/**
+ * <!-- class CheeseCakeView -->
+ *
+ * This class defines the view on which the cake will draw on
+ *
+ * @author Skyelar Cann
+ * @version Spring 2022
+ *
+ */
+
 public class CheeseCakeView extends SurfaceView{
 
     /* Paint declarations */
